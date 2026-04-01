@@ -1,0 +1,3 @@
+We are a group of two members studying Computer Engineering. 
+We completed Lab 11 on Git and GitHub together on google meet.
+We learned branching, merging, and pull requests.
